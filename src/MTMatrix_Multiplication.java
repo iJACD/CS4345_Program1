@@ -1,3 +1,9 @@
+//-----------------------------------------
+//CS4345
+//Spring 2018 
+//Program 1
+//JohnAnthony Dobson
+//-----------------------------------------
 
 public class MTMatrix_Multiplication {
 
